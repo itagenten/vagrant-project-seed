@@ -1,0 +1,30 @@
+# The name of the project
+# PROJECT="newproject"
+
+# Setting up hostname
+# HOSTNAME="newhost"
+
+# Set the path to the shared codebase
+CODEREPO='git@github.com:myuser/myrepo.git'
+
+# Set the IP of the VM
+# HOSTONLY_IP = "10.10.10.10"
+
+# Current possible roles are 'plain','nodejs-stack','python-stack','lamp-stack','java-stack','cordova-stack','c-stack'
+# ROLE='plain'
+
+# Set the count of the host to avoid namespace conflict 
+# COUNT=1
+
+# Define which ports should be forwarded.
+# FORWARD_PORTS ||= {80 => 8080, 443 => 8443}
+
+# DATABASE 
+
+# Current possible DBTYPEs are 'mysql','postgresql','mongodb','redis'
+# DBTYPE
+# DB_ROOT_USER = "rootpass"
+# DB_ROOT_PASSWORD = "rootpass"
+# DEBIAN_PASSWORD = "debpass"
+# DRUPAL_PASSWORD = "drupalpass"
+

@@ -1,0 +1,23 @@
+basic:
+  pkg:
+    - latest
+    - names:
+      - sudo
+      - debconf
+      - htop
+      - iftop
+      - iotop
+      - mtr-tiny
+      - lsof
+      - strace
+      - nmap
+      - tmux
+      - curl
+      - dnsutils
+      - ethtool
+      - vim-nox
+      - exuberant-ctags
+      - iptraf
+      - wget
+      - git
+

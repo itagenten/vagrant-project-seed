@@ -1,0 +1,3 @@
+cloudfoundry-client:
+  pkg:
+    - installed

@@ -1,0 +1,16 @@
+*~
+*.swp
+*.swo
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+*.log
+*.pot
+*.pyc
+config.rb
+.DS_Store
+.vagrant
