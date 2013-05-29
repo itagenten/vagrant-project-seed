@@ -1,3 +1,7 @@
+locales:
+  pkg:
+    - installed
+
 {% for locale in pillar.get('locales', ()) %}
 locale-gen {{ locale }}:
   cmd:

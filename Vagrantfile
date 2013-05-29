@@ -21,7 +21,7 @@ Vagrant.configure("2") do |config|
   
   # The url from where the 'config.vm.box' box will be fetched if it
   # doesn't already exist on the user's system.
-  # config.vm.box_url = "http://domain.com/path/to/above.box"
+  #config.vm.box_url = "https://raw.github.com/gmoigneu/vagrant-debian-wheezy-box/master/debian-70.box"
 
   # config.vm.network :private_network, ip: "192.168.33.10"
   # config.vm.network :public_network

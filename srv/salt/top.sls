@@ -1,6 +1,5 @@
 base:
   '*':
-    - locales
-    - timezone
-    - sysctl
-    - curl
+    - system.*
+    - utils
+    - git
